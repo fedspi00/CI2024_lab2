@@ -2,7 +2,7 @@
 
 ## Comparison of Greedy Algorithm and Evolutionary Algorithm for Solving the TSP problem
 
-Two approaches used to solve TSP are the **Greedy Algorithm** and the **Evolutionary Algorithm**. Below, we compare these methods in terms of pros and cons and their execution time.
+Two approaches used to solve TSP are the **Greedy Algorithm** and the **Evolutionary Algorithm**. Below, we compare these methods in terms of pros and cons and their execution time. We can see that the EA approach find considerably higher routes the larger the dataset, even though it's supposed to be effective for larger dataset.
 
 ## Differences Between Greedy Algorithm and Evolutionary Algorithm
 
